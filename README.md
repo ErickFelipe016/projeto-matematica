@@ -54,4 +54,4 @@ A disponibilidade e a qualidade da voz em português dependem do navegador e das
 
 ## Observação
 
-O carrinho inteligente é apresentado como uma proposta educativa. O site não controla um carrinho físico nem integra sensores, GPS ou sistemas reais de navegação em supermercados.
+O carrinho inteligente é apresentado como uma proposta educativa. O site não controla um carrinho físico nem integra sensores, GPS ou sistemas reais de navegação em supermercados, esse site ele é apenas informativo.
