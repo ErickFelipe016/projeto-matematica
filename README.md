@@ -54,4 +54,5 @@ A disponibilidade e a qualidade da voz em português dependem do navegador e das
 
 ## Observação
 
-O carrinho inteligente é apresentado como uma proposta educativa. O site não controla um carrinho físico nem integra sensores, GPS ou sistemas reais de navegação em supermercados, esse site ele é apenas informativo.
+Projeto educativo que apresenta uma proposta de carrinho inteligente para auxiliar pessoas com deficiência visual na orientação e localização de produtos em supermercados, promovendo acessibilidade e autonomia.
+
